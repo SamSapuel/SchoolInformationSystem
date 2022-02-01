@@ -1,2 +1,3 @@
-# SchoolInformationSystem
-Spirng app without frontend
+# Sis app
+
+Simple spring project for EAR
